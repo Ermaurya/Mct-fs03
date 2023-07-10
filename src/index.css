@@ -39,7 +39,12 @@ p, h1, h2, h3, h4, h5, h6 {
 .login-detail-title {
     rotate: 90deg;
     top: 100px;
-    left: -14px;
+   left: -50px;
+    font-size: 40px;
+    opacity: 0.4;
+    font-weight: 800;
+    line-height: 2;
+
 }
 .hading{
     font-size: 30px;
