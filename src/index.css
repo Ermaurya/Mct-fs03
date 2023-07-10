@@ -55,8 +55,8 @@ p, h1, h2, h3, h4, h5, h6 {
 
 }
 .col-left {
-    clip-path: ellipse(81% 100% at 8% 80%);
-    background-color: #3BC3BE;
+   clip-path: ellipse(91% 99% at 9% 98%);
+    background-color: #3bc3be;
     color: white;
 }
 .hight{
