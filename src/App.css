@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.badge {
+    --bs-badge-padding-x: 0.67em;
+    --bs-badge-padding-y: 0.2em;
+}
+.container-fluid{
+    background-color: rgb(59, 59, 59);
+}
+.bg-color{
+    background: #3b3b3b;
+    color: #fff;
+}
