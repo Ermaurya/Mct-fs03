@@ -11,12 +11,6 @@ p, h1, h2, h3, h4, h5, h6 {
     padding: 0;
 }
 
-/* login page */
-
-.card-height {
-    /* height: 500px; */
-}
-
 .login-container {
     background-color: #D6F1F0;
 }
@@ -74,9 +68,7 @@ p, h1, h2, h3, h4, h5, h6 {
     height: 5rem;
 }
 
-.nav-left {
-    
-}
+
 
 .nav-right {
     gap: 2rem;
@@ -105,9 +97,7 @@ p, h1, h2, h3, h4, h5, h6 {
     flex-wrap: wrap !important;
     justify-content: space-evenly;
 }
-.read-blog-card-container {
-    
-}
+
 .read-blog-card-container > .card {
     width: 20rem;
     /* height: 20rem; */
