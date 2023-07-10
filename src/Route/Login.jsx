@@ -32,7 +32,7 @@ const Login = () => {
     <div className="login-container container-fluid vh-100 hight d-flex align-items-center justify-content-center">
         <div className="card card-height rounded-7">
           <div className="row flex  justify-center box rounded-7">
-            <div className="col-6 d-flex flex-column justify-content-end pb-4 ps-5 col-left rounded-7">
+            <div className="col-6 d-flex flex-column justify-content-end pb-4 ps-5 col-left round">
               <h1 className='login-detail-title position-absolute'>Welcome</h1>
               <p className=''>INTRODUCING BROKER OPERATING SYSTEM</p>
             </div>
